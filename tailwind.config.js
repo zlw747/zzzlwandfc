@@ -10,7 +10,6 @@ module.exports = {
       light: "light",
       gray: "gray",
     },
-    extend: {
       colors: {
         primary: {
           50: '#f0f9ff',
